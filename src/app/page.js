@@ -1,7 +1,7 @@
 "use client";
 
 import Main from "@/components/Main";
-import Navbar from "@/components/Navbar";
+// import Navbar from "@/components/Navbar";
 import { useRouter } from "next/navigation";
 // import { useRouter } from "next/router";
 // import { Main } from "next/document";
