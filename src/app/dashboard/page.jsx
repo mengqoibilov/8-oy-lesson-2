@@ -28,7 +28,8 @@ function page() {
             <select className="block w-full p-2 border rounded">
             <option>Select Professional nebnfbnsndndadssssus</option>
               <option>Select Professional sdhgghjskhgfghjkjhg</option>
-              <option>Select Professional sdhgfghjkjhgfghjkghjskhgfghjkjhg</option>
+              <option>Select Professional sdhgfghjsdfdfkjhgfghjkghjskhgfghjkjhg</option>
+              <option>Select Professional sdhgfghjsdfdfkjhgfghjkghjskhgfghjkjhg</option>
             </select>
             <input type="text" placeholder="Company" className="block w-full p-2 mt-2 border rounded" />
             <input type="text" placeholder="Website" className="block w-full p-2 mt-2 border rounded" />

@@ -5,6 +5,7 @@
 /.pnp
 .pnp.*
 # .env
+
 .yarn/*
 !.yarn/patches
 !.yarn/plugins
